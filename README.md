@@ -12,9 +12,7 @@ Mulai belajar dari HP pakai Acode, Sololearn, dan YouTube — sekarang lagi ngem
 
 ### 🧠 Saat Ini Gue Lagi Belajar:
 - HTML, CSS, & JavaScript Dasar
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 - Python Dasar
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 - Git & GitHub (versi lokal dan remote)
 - Project Kecil (kalkulator, to-do app)
 

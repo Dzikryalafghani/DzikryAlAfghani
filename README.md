@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dzikry Alafghani</h1>
-<h3 align="center">📱 Belajar Coding dari HP | 🎓 Siswa SMK PPLG | 🚀 Future Fullstack Developer</h3>
+
+![Dzikry AL Afghnai](img/github-header-image.png)
 
 ---
 
@@ -13,7 +14,7 @@ Mulai belajar dari HP pakai Acode, Sololearn, dan YouTube — sekarang lagi ngem
 
 ### 🧠 Saat Ini Gue Lagi Belajar:
 - HTML, CSS, & JavaScript Dasar
-- Python Programming
+- Python Dasar
 - Git & GitHub (versi lokal dan remote)
 - Project Kecil (kalkulator, to-do app)
 
@@ -22,14 +23,14 @@ Mulai belajar dari HP pakai Acode, Sololearn, dan YouTube — sekarang lagi ngem
 ### ⚙️ Tools yang Gue Gunain:
 - 💻 Acode (HP)
 - 🧠 Sololearn & W3Schools
-- 📓 VS Code (kalau sempat pinjem laptop)
+- 📓 VS Code (Laptop)
 - 🐙 GitHub (buat commit dan simpen project)
 
 ---
 
 ### 📚 Produk Digital Gue
 Gue juga jual eBook produktivitas buat pelajar yang pengen berkembang:
-➡️ [365 Hari Upgrade Diri – Hack Otak & Bangun Habit Juara!](#)
+➡️ [365 Hari Upgrade Diri - Revisi Edition](https://lynk.id/ghanzyy)
 
 ---
 
@@ -42,9 +43,9 @@ Gue juga jual eBook produktivitas buat pelajar yang pengen berkembang:
 ---
 
 ### 📲 Follow & Connect with Me!
-- TikTok: [@grow.with.dzikry](https://tiktok.com/@grow.with.dzikry)
-- Instagram: [@grow.with.dzikry](https://instagram.com/grow.with.dzikry)
-- Email: dzikry@email.com
+- TikTok: [@dzikry.codes](https://tiktok.com/@dzikry.codes)
+- Instagram: [@dzikry.codes](https://instagram.com/dzikry.codes)
+- Email: dzikry.dev@gmail.com
 
 ---
 

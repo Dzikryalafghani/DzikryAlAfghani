@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Dzikry Alafghani</h1>
-
 ![Dzikry AL Afghnai](img/github-header-image.png)
 
 ---
